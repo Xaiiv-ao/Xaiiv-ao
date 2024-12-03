@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" width="100%">
-    <img src="https://komarev.com/ghpvc/?username=prismaticvampire&style=for-the-badge&label=ㅤ𓍯ㅤ&color=357099"> 
+    <img src="https://komarev.com/ghpvc/?username=Xaiiv-ao&style=for-the-badge&label=ㅤ𓍯ㅤ&color=357099"> 
 </p>
 
 <h4>
